@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary = %q{The Paddle gem provides Ruby APIs to create, process and manage payment through Paddle API.}
   spec.description = %q{The Paddle gem provides Ruby APIs to create, process and manage payment through Paddle API.}
-  spec.homepage = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage = "https://github.com/aziflaj/paddle-ruby-sdk"
   spec.license = 'MIT'
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
